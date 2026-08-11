@@ -1,0 +1,30 @@
+{
+  "name": "RB50 — Riftbound 50 Index",
+  "short_name": "RB50",
+  "description": "A transparent Riftbound card-market benchmark built from a pinned observed-data snapshot.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d0f",
+  "theme_color": "#0b1012",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "name": "RB50 — Riftbound 50 Index",
+  "name": "RB50 - Riftbound Market Indexes",
   "short_name": "RB50",
-  "description": "A transparent Riftbound card-market benchmark built from a pinned observed-data snapshot.",
+  "description": "Transparent Riftbound benchmark, set, chase, and champion indexes built from a pinned observed-data snapshot.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
